@@ -1,2 +1,2 @@
 #!/bin/bash
-mplay -vo caca StarWars IV episode
+telnet towel.blinkenlights.nl
