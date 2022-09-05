@@ -1,2 +1,2 @@
 #!/bin/bash
-echo > hello|pr -t "Hello, World"
+echo "Hello, World"| pr -t hello
