@@ -1,2 +1,2 @@
 #!/bin/bash
-pr -n hello
+pr -t hello
